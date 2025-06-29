@@ -2,6 +2,10 @@
 
 Dieses Repository bietet eine Übersicht der wichtigsten Tools für **Penetration Testing und Ethical Hacking**. Diese Tools decken die gesamte Bandbreite von Netzwerkerkundung über Exploits bis zu Web- und Passwort-Angriffen ab. Sie richten sich an Security-Professionals, IT-Sicherheitsbeauftragte und alle, die Systeme auf Schwachstellen prüfen möchten.
 
+## 📄 Weiterführende Inhalte
+
+👉 [🔐 Komplette Pentesting-Übersicht (1–9)](Pentestings.md)  
+Enthält detaillierte Schritte für LAN, WLAN, Server, Cloud, Mobile, Social Engineering u.v.m.
 ---
 
 ## 🚀 Übersicht der Tools
