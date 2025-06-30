@@ -4,7 +4,7 @@ Dieses Repository bietet eine Übersicht der wichtigsten Tools für **Penetratio
 
 ## 📄 Weiterführende Inhalte
 
-👉 [🔐 Komplette Pentesting-Übersicht (1–9)](Pentestings) 
+👉 [🔐 Komplette Pentesting-Übersicht (1–9)](Pentestings.md) 
 
 Enthält detaillierte Schritte für LAN, WLAN, Server, Cloud, Mobile, Social Engineering u.v.m.
 
